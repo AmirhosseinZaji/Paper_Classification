@@ -1,0 +1,3 @@
+Class: wheat_spike_detection_and_counting
+
+Summary: The research paper focuses on the detection and enumeration of wheat grains using a deep learning method, specifically the Faster Region-based Convolutional Neural Network Model. The study collected wheat grain image datasets under various scenarios and scales, and used deep learning techniques to overcome the limitations of traditional image processing algorithms. The model achieved a mean average precision of 0.91 and a grain counting error rate of less than 3%, making it an effective tool for wheat grain detection and enumeration in diverse backgrounds and conditions. The paper provides a valuable reference for further applications in grain testing and enumeration.

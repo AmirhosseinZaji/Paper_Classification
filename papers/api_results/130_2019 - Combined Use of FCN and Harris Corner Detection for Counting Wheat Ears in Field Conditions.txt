@@ -1,0 +1,3 @@
+Class: wheat_spike_detection_and_counting
+
+Summary: The research paper proposes a method for counting wheat ears in field conditions using a combination of fully convolutional network (FCN) for wheat-ear segmentation and Harris corner detection for counting the wheat ears. The FCN-based segmentation model shows high accuracy and low computational cost, improving segmentation results by nearly 10% compared to previous methods. The proposed counting method achieves good results with improved accuracy, coefficient of determination (R2), and root mean square error (RMSE). The study demonstrates the effectiveness of the proposed method for accurately counting wheat ears in field conditions, providing valuable insights for wheat phenotyping and breeding research.

@@ -1,0 +1,3 @@
+Class: wheat_production_modeling
+
+Summary: The research paper focuses on the multi-trait prediction of grain yield, days to heading, and plant height of durum wheat lines across various environments. The study implements a multi-trait deep learning model and compares it with the genomic best linear unbiased predictor (GBLUP) method. The results show that the GBLUP model provides the best predictions overall, with the deep learning model (MTDL) closely following. The paper highlights the potential of genomic selection for enhancing genetic gain in durum wheat breeding programs.

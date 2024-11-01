@@ -1,0 +1,42 @@
+115_2018 - DeepWheat Estimating Phenotypic Traits from Crop Images with Deep Learning.txt: 9951
+130_2019 - Combined Use of FCN and Harris Corner Detection for Counting Wheat Ears in Field Conditions.txt: 11517
+162_2020 - Active learning with point supervision for cost-effective panicle detection in cereal crops.txt: 14026
+151_2019 - Multi-Trait, Multi-Environment Genomic Prediction of Durum Wheat With Genomic Best Linear Unbiased Pre.txt: 12721
+155_2019 - Self-adversarial Training and Attention for Multi-task Wheat Phenotyping.txt: 5772
+163_2020 - Aerial hyperspectral imagery and deep neural networks for high-throughput yield phenotyping in wheat.txt: 19037
+148_2019 - Image recognition method based on an improved convolutional neural network to detect impurities in wheat.txt: 12096
+108_2017 - Near infrared spectroscopy detection of the content of wheat based on improved deep belief network.txt: 3701
+178_2020 - SpikeSegNet-a deep learning approach utilizing encoder-decoder.txt: 16650
+126_2019 - A New CNN-Bayesian Model for Extracting Improved Winter Wheat Spatial Distribution from GF-2 imagery.txt: 17459
+159_2019 - Wheat yield forecast using contextual spatial information.txt: 4793
+156_2019 - SpikeletFCN Counting Spikelets from Infield Wheat Crop Images Using Fully Convolutional Networks.txt: 6908
+176_2020 - Prediction and counting of field wheat based on LC-DcVgg.txt: 5063
+139_2019 - DeepSpectra An end-to-end deep learning approach for quantitative spectral analysis.txt: 12973
+154_2019 - RootNav 2.0 Deep learning for automatic navigation of complex plant root architectures.txt: 19601
+172_2020 - Improved winter wheat spatial distribution extraction from high-resolution remote sensing imagery using semantic feat.txt: 13584
+177_2020 - Segmenting ears of winter wheat at flowering stage using digital images and deep learning.txt: 14846
+114_2018 - Convolutional neural network-based remote sensing images segmentation method for extracting winter wheat spatial d.txt: 15805
+165_2020 - Combining multi-source data and machine learning approaches to predict winter wheat yield in the conterminous Unite.txt: 19673
+157_2019 - TasselNetv2 In-field counting of wheat spikes with context-augmented local regression networks.txt: 14549
+149_2019 - LSTM neural network based forecasting model for wheat production in Pakistan.txt: 7185
+180_2020 - Winter Wheat Yield Prediction at County Level and Uncertainty Analysis in Main Wheat-Producing Regions of China wit.txt: 13632
+134_2019 - Crop yield prediction with deep convolutional neural networks.txt: 11877
+110_2018 - Building a Globally Optimized Computational Intelligent Image Processing Algorithm for On-Site Inference of Nit.txt: 6802
+171_2020 - Estimating and understanding crop yields with explainable deep learning in the Indian Wheat Belt.txt: 10842
+145_2019 - Evaluation and comparison of random forest and A-LSTM networks for large-scale winter wheat identification.txt: 23752
+170_2020 - Detection and enumeration of wheat grains based on a deep learning method under various scenarios and scales.txt: 8367
+138_2019 - DeepCount In-Field Automatic Quantification of Wheat Spikes Using Simple Linear Iterative Clustering and.txt: 14882
+160_2019 - Winter Wheat Yield Estimation from Multitemporal Remote Sensing Images based on Convolutional Neural Networks.txt: 4029
+173_2020 - Improved winter wheat spatial distribution extraction using a convolutional neural network and partly connected con.txt: 20766
+112_2018 - Computational Deep Intelligence Vision Sensing for Nutrient Content Estimation in Agricultural Automation.txt: 18925
+161_2020 - A mixed data-based deep neural network to estimate leaf area index in wheat breeding trials.txt: 19833
+144_2019 - Estimating above ground biomass of winter wheat at early growth stages using digital images and deep convolutional neural network.txt: 15096
+175_2020 - Modeling long-term dynamics of crop evapotranspiration using deep learning in a semi-arid environment.txt: 20567
+104_2017 - Deep machine learning provides state-of-the-art performance in image-based plant phenotypin.txt: 12004
+137_2019 - Deep learning based winter wheat mapping using statistical data as ground references in Kansas and northern Tex.txt: 21197
+118_2018 - Estimation of vegetation indices for high-throughput phenotyping of wheat using aerial imaging.txt: 10256
+142_2019 - Ear density estimation from high resolution RGB imagery using deep learning technique.txt: 13244
+103_2017 - Deep learning for multi-task plant phenotyping.txt: 8325
+102_2017 - Deep Learning Classification of Land Cover and Crop Types Using Remote Sensing Data.txt: 7557
+120_2018 - Multi-class wheat moisture detection with 5GHz Wi-Fi A deep LSTM approach.txt: 9587
+116_2018 - Detection and analysis of wheat spikes using Convolutional Neural Networks.txt: 12154

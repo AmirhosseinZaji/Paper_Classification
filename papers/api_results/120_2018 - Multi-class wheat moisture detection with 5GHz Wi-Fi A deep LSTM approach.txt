@@ -1,0 +1,3 @@
+Class: wheat_moisture_detection
+
+Summary: The research paper proposes a DeepWMD system based on a deep LSTM network for multi-class wheat moisture detection using Wi-Fi Channel State Information (CSI) data. The system collects CSI amplitude and phase difference data to train the deep LSTM network for wheat moisture content detection. Experimental results show high-precision multi-class wheat moisture detection in different indoor storage environments using commodity Wi-Fi devices in the 5GHz band. The proposed system achieves accuracy above 95% for both line-of-sight (LOS) and non-line-of-sight (NLOS) scenarios, demonstrating the effectiveness of using deep learning for wheat moisture detection.

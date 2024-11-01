@@ -1,0 +1,3 @@
+Class: wheat_content_estimation
+
+Summary: The main goal of the paper is to investigate estimating emergence and biomass traits from color images and elevation maps of wheat field plots using deep learning models. The paper presents a framework that achieves satisfactory performance in estimating these traits for wheat plants. The approach involves segmentation and convolutional architectures with high dimensional nonlinear regression to estimate traits via deep learning. The results show improved accuracy in counting wheat plants and biomass estimation compared to previous approaches in the literature. The study focuses on image-based phenotypic trait estimation for better crop production.

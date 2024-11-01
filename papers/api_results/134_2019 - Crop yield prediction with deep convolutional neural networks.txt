@@ -1,0 +1,3 @@
+Class: wheat_production_modeling
+
+Summary: The research paper focuses on crop yield prediction using deep convolutional neural networks (CNNs) based on NDVI and RGB data acquired from UAVs for wheat and barley fields. The study aims to develop a CNN-based deep learning framework for crop yield prediction and evaluates various aspects of the CNN model, such as training algorithm selection, network depth, regularization strategies, and hyperparameter tuning. The results show that the CNN models can predict within-field yield with reasonable accuracy, with the best performance achieved using RGB images in the early growth stages. The study provides insights into optimizing the CNN model for accurate crop yield prediction in the Finnish continental subarctic climate.

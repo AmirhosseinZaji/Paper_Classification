@@ -1,0 +1,3 @@
+Class: wheat_spatial_distribution_extraction
+
+Summary: The research paper focuses on utilizing deep machine learning techniques for image-based plant phenotyping, specifically in measuring root and shoot features in wheat plants. The study demonstrates the successful application of deep learning in identifying root and shoot features with high accuracy (>97%) and localization. The paper highlights the potential of deep learning in automating trait identification and quantitative trait loci (QTL) discovery in plant phenotyping pipelines. The approach shows promise in revolutionizing image-based phenotyping through deep learning methods, paving the way for high-throughput and automated analysis of plant features.

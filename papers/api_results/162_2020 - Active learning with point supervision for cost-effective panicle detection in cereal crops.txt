@@ -1,0 +1,3 @@
+Class: wheat_spike_detection_and_counting
+
+Summary: The research paper proposes an active learning approach with point supervision for cost-effective panicle detection in cereal crops, focusing on wheat and sorghum datasets. The model interacts with human annotators to query informative images for panicle detection, reducing labeling costs by leveraging weak labels (object centers) for selecting the most informative images. The proposed method outperforms baseline methods with significant savings in labeling time on both Sorghum and Wheat datasets. The study aims to train reliable panicle detectors for cereal crops, benefiting plant breeders and agronomists in obtaining quick crop yield estimates and real-time visual crop analysis for crop management decisions.

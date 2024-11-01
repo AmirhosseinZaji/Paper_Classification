@@ -1,0 +1,3 @@
+Class: wheat_grain_identification
+
+Summary: The research paper focuses on developing a recognition method using an improved convolutional neural network to detect impurities in wheat. The proposed WheNet network achieved efficient results with high recognition accuracies. The study constructed labeled datasets of wheat images with impurities and conducted comparative experiments with other networks. The results showed that WheNet outperformed ResNet_101 and Inception_v3 in terms of training time, recognition accuracy, and efficiency, making it a useful tool for recognizing impurities in wheat. The paper addresses the challenges of impurity recognition in wheat and proposes a novel approach using deep learning techniques.
